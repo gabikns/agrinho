@@ -17,7 +17,7 @@ body {
 
 /* Cabeçalho */
 header {
-  background-color: #2e7d32;
+  background-color: #6a64be;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -58,7 +58,7 @@ section {
 }
 
 h2 {
-  color: #2e7d32;
+  color: #b33d78;
   margin-bottom: 10px;
 }
 
@@ -69,7 +69,7 @@ ul, ol {
 
 /* Rodapé */
 footer {
-  background-color: #1b5e20;
+  background-color: #6d63cc;
   color: white;
   text-align: center;
   padding: 15px 0;
